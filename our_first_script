@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#first script from udemy course
+#echo will print to screen
+
+echo "This is my first script" 
+exit 0
+
